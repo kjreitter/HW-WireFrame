@@ -1,16 +1,35 @@
+* {
+   background: grey;
+   font-size: 15px;
+
+
+}
+
 .section
 { 
- float: right;
- 
+ float: right;  
+
+
 }
 
 .aside
 {
     float: left;
+    width: 33.3%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
 }
 
 .main
 {
     float: left;
 
+}
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;  
 }
