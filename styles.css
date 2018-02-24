@@ -1,0 +1,16 @@
+.section
+{ 
+ float: right;
+ 
+}
+
+.aside
+{
+    float: left;
+}
+
+.main
+{
+    float: left;
+
+}
