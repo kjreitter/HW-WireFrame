@@ -4,12 +4,13 @@
    background-color: #777;
    box-sizing: border-box;
    width: 960px;
+   margin: 20px;
 
    
 }
 
 header{
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     background-color: #ebebeb;
     
@@ -18,13 +19,14 @@ header{
 section{
     padding: 20px;
     background-color: #ebebeb;
-    margin: 20px;
+
     
 }
 
 #nav{
-text-align: center;
-background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    background-color: #ebebeb;
 
 
 }
@@ -48,6 +50,7 @@ background-color: #ebebeb;
     width: 300px;
     border: 10px solid#ebebeb;
     margin: 25px;
+    
 
 }
 #list{
@@ -55,6 +58,7 @@ padding: 20px;
 background-color: #ebebeb;
 width: 33.3%;
 height: 20px;
+
 
 }
 #p{
